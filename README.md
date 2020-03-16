@@ -1,6 +1,5 @@
-# Raspotify
-
-_**Spotify Connect client for the Raspberry Pi that Just Works™.**_
+# Raspberry pi Spotify Connect 
+To listen on by Raspberry pi your speakers that support AV audio ports, using the Spotify app as a remote.
 
 ## tl;dr
 
